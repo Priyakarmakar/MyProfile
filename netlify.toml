@@ -1,0 +1,4 @@
+# Netlify config for Priya Karmakar portfolio (static site)
+[build]
+  publish = "."
+  command = ""
